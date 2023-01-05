@@ -30,8 +30,8 @@
   
 <div>
   <ul>
-    <li><b> 19anos<b></li>
-    <li><b> Cursando sistema de informação na UNINASSAU (2021 - 2024)<b/></li>
-      <li><b>querendo seguir carreira de devensolvedor Full-stack</b>
+    <li><b>19 anos<b></li>
+    <li><b>Cursando sistema de informação na UNINASSAU (2021 - 2024)<b/></li>
+      <li><b>Querendo seguir carreira de devensolvedor Full-stack</b>
   </ul>
   </div>
