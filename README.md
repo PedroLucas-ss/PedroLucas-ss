@@ -1,7 +1,7 @@
 ## Olá sou Pedro Lucas
 <div align="center">
   <a href="https://github.com/PedroLucas-ss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucas-ss&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucas-ss&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-ss&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br>
