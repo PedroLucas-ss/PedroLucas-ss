@@ -35,6 +35,9 @@
 </div>
   
   ##
+  <p align="left">
+  <img align="center" src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
+</p>
   
 <div>
   <ul>
