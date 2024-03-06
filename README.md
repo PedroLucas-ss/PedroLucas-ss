@@ -45,10 +45,6 @@
 </p>
   
 <div>
-  <ul>
-    <li><b>20 anos<b></li>
-    <li><b>Cursando sistema de informação na UNINASSAU (2021 - 2024)<b/></li>
-      <li><b>Querendo seguir carreira de devensolvedor Full-stack</b>
-  </ul>
+
   </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
