@@ -36,10 +36,10 @@
   
   ##
   <p >
-      <ul align="left">
+      <ul >
 
   </ul>
-  <img align="right" width="60%" style="margin-left: 10" src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
+  <img align="right" width="60%"  src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
 </p>
   
 <div>
