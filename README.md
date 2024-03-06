@@ -41,7 +41,7 @@
     <li><b>Cursando sistema de informação na UNINASSAU (2021 - 2024)<b/></li>
       <li><b>Querendo seguir carreira de devensolvedor Full-stack</b>
   </ul>
-  <img align="right" src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
+  <img align="right" width="60%" height="195px" src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
 </p>
   
 <div>
