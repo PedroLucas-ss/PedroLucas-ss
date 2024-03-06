@@ -37,7 +37,7 @@
  <br>
   <p >
 
-  <img align="right" width="80%"  src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
+  <img align="center" width="60%"  src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
 </p>
   
 <div>
