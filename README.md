@@ -9,7 +9,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLucas-ss&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=1E90FF&text_color=00BFFF&bg_color=0d1117" alt="PedroLucas-ss github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-ss&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align = "center"><br>
   
   <img align="center" alt="Pl-htlm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
