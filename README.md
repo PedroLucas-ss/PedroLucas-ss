@@ -32,14 +32,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,flutter,py,java,md,mysql,sqlite,git,github,vscode,powershell" />
   </a>
+  
 </p>
   
-
+<br>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/_pedro_lss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedroluc1232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-santos-a1a18920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/_pedro_lss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href="mailto:pedroluc1232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-santos-a1a18920a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 
 <br>
