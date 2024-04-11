@@ -37,8 +37,8 @@
  <br>
   <p >
 
-  <img align="center" width="49%"  src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
-  <img align="center" width="49%"  src= profile-3d-contrib/profile-green-animate.svg alt ="Imagem">
+  <img align="left" width="49%"  src="https://github.com/PedroLucas-ss/images/blob/main/26b8f1a0d3308bd834ad7152b6062e1a.gif" alt="Imagem">
+  <img align="right" width="49%"  src= profile-3d-contrib/profile-night-rainbow.svg alt ="Imagem">
 </p>
   
 <div>
