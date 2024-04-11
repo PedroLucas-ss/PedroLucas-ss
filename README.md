@@ -37,7 +37,7 @@
   
 <br>
 
-<div align="center"> 
+<div align="center" padding = "20px"> 
   <a href="https://www.instagram.com/_pedro_lss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
   <a href="mailto:pedroluc1232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-santos-a1a18920a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
