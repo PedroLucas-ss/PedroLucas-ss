@@ -38,9 +38,9 @@
 <br>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/_pedro_lss/" target="_blank"><img style=”float: left; padding: 3px 3px 0px 3px; src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href="https://www.instagram.com/_pedro_lss/" target="_blank"><img style=”float: left; padding: 3px 5px 0px 5px; src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
   <a href="mailto:pedroluc1232@gmail.com"><img  src="https://skillicons.dev/icons?i=gmail" ></a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-santos-a1a18920a/" target="_blank"><img style=”float: left; padding: 3px 3px 0px 3px; src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-santos-a1a18920a/" target="_blank"><img style=”float: left; padding: 3px 5px 0px 5px; src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 
 <br>
