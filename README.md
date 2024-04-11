@@ -28,9 +28,12 @@
 
 ##
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,flutter,py,java,md,mysql,sqlite,git,github,vscode,powershell" />
+  </a>
+</p>
   
-[![My Skills](https://skillicons.dev/icons?i=c,cs,flutter,py,java,md,mysql,sqlite,git,github,vscode,powershell&perline=4)](https://skillicons.dev)
 
 
 <div align="center"> 
